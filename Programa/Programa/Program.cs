@@ -7,8 +7,8 @@ namespace Programa
     {
         static void Main(string[] args)
         {
-            string[] Sarasas = { "vienas", "du", "trys", "keturi","penki","sesi" };
-            for(int i =0; i < Sarasas.Length; i++)
+            List<string> Sarasas = new List<string>();
+            for(int i =0; i < Sarasas.Count; i++)
             {
                 Console.WriteLine(Sarasas[i]);
             }
