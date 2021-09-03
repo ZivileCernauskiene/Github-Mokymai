@@ -1,0 +1,16 @@
+C:\Users\remixaz\Desktop\GIT\09-03\Github-Mokymai\Programa\Programa\bin\Debug\net5.0\Programa.exe
+C:\Users\remixaz\Desktop\GIT\09-03\Github-Mokymai\Programa\Programa\bin\Debug\net5.0\Programa.deps.json
+C:\Users\remixaz\Desktop\GIT\09-03\Github-Mokymai\Programa\Programa\bin\Debug\net5.0\Programa.runtimeconfig.json
+C:\Users\remixaz\Desktop\GIT\09-03\Github-Mokymai\Programa\Programa\bin\Debug\net5.0\Programa.runtimeconfig.dev.json
+C:\Users\remixaz\Desktop\GIT\09-03\Github-Mokymai\Programa\Programa\bin\Debug\net5.0\Programa.dll
+C:\Users\remixaz\Desktop\GIT\09-03\Github-Mokymai\Programa\Programa\bin\Debug\net5.0\ref\Programa.dll
+C:\Users\remixaz\Desktop\GIT\09-03\Github-Mokymai\Programa\Programa\bin\Debug\net5.0\Programa.pdb
+C:\Users\remixaz\Desktop\GIT\09-03\Github-Mokymai\Programa\Programa\obj\Debug\net5.0\Programa.csproj.AssemblyReference.cache
+C:\Users\remixaz\Desktop\GIT\09-03\Github-Mokymai\Programa\Programa\obj\Debug\net5.0\Programa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\remixaz\Desktop\GIT\09-03\Github-Mokymai\Programa\Programa\obj\Debug\net5.0\Programa.AssemblyInfoInputs.cache
+C:\Users\remixaz\Desktop\GIT\09-03\Github-Mokymai\Programa\Programa\obj\Debug\net5.0\Programa.AssemblyInfo.cs
+C:\Users\remixaz\Desktop\GIT\09-03\Github-Mokymai\Programa\Programa\obj\Debug\net5.0\Programa.csproj.CoreCompileInputs.cache
+C:\Users\remixaz\Desktop\GIT\09-03\Github-Mokymai\Programa\Programa\obj\Debug\net5.0\Programa.dll
+C:\Users\remixaz\Desktop\GIT\09-03\Github-Mokymai\Programa\Programa\obj\Debug\net5.0\ref\Programa.dll
+C:\Users\remixaz\Desktop\GIT\09-03\Github-Mokymai\Programa\Programa\obj\Debug\net5.0\Programa.pdb
+C:\Users\remixaz\Desktop\GIT\09-03\Github-Mokymai\Programa\Programa\obj\Debug\net5.0\Programa.genruntimeconfig.cache
